@@ -23,10 +23,6 @@ if ($_SERVER["REQUEST_METHOD"] == "GET") {
 <html>
     <head>
         <title>A simple count down timer using Javascript and php</title>
-        <meta property='og:description' content='Using Javascript and a php form the count down timer can be set and reset' />
-        <meta property='og:site_name' content='A or B or C - Technologies' />
-
-        <link rel="icon" type="image/ico" href="../../images/favicon.ico" />
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
 		<style>
 			.clock{
