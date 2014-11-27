@@ -78,8 +78,7 @@ if ($_SERVER["REQUEST_METHOD"] == "GET") {
                 <label for="secs">Seconds</label>
                 <input value = "<? echo $secs; ?>" name="secs" type="number" class="form-control" id="secs" placeholder="Seconds">
             </div>
-            <button type="submit" class="btn btn-info">Set new timer</button> 
-            <!--input type="button" class="btn btn-warning" name="btn" value="Hide Form--">
+            <button type="submit" class="btn btn-info">Set new timer</button>
         </form>
 	</body>
 </html>
