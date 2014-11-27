@@ -1,7 +1,7 @@
 countdown
 =========
 
-Countdown timer created for php using javascript with an html Form to set a new timer
+Countdown timer created for php application using javascript with an html Form to set a new timer
 
 It uses bootstrap for CSS
 
